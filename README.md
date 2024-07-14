@@ -7,6 +7,7 @@
         - Slicing and Indexing
         - Loops and Conditional Statements
         - Working with Strings, Lists, Dicts, etc.
+    - 02PythonIntermediate.ipynb -> Covers python intermediate concepts
 - 02SQL4DE -> SQL for Data Engineering
 - 001helloworld.py -> Test .py file
 - 002helloworld.ipynb --> test .ipynb file
