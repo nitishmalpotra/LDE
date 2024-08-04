@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learning-data-engineering"
+version = "0.1.0"
+authors = [
+  { name="Nitish Malpotra" },
+]
+description = "A repo to learn concepts and tools for Data Engineering"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/nitishmalpotra/LDE"
