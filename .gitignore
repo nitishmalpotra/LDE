@@ -6,3 +6,6 @@
 
 # Git
 .git/
+
+# Python egg metadata
+*.egg-info/
